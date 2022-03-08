@@ -149,3 +149,15 @@ div.alert-danger {
 .selectize-dropdown, .selectize-dropdown.form-control {
 	border-radius: 0;
 }
+
+@media (min-width: 1500px) {
+	.container, .container-lg, .container-md, .container-sm, .container-xl {
+		max-width: 1400px
+	}
+}
+
+@media (min-width: 1920px) {
+	.container, .container-lg, .container-md, .container-sm, .container-xl {
+		max-width: 1800px
+	}
+}
