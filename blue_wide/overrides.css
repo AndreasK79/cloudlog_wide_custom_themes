@@ -172,3 +172,11 @@ div.alert-danger {
 	max-height: calc(100vh - 200px);
 	overflow-y: auto;
 }
+
+#mapqso {
+	height: 400px !important;
+}
+
+#qsomap {
+	height: 400px !important;
+}

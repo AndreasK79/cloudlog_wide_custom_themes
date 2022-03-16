@@ -163,3 +163,11 @@ path.grid-worked {
 	height: calc(100vh - 380px) !important;
 	max-height: 900px !important;
 }
+
+#mapqso {
+	height: 400px !important;
+}
+
+#qsomap {
+	height: 400px !important;
+}
