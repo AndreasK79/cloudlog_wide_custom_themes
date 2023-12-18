@@ -1,3 +1,5 @@
+The themes are now included from Cloudlog 2.6, when Cloudlog was upgraded to Bootstrap 5. That's why this repo is archived.
+
 These themes are written for Cloudlog V2. It is currently being developed, and can be found here: https://github.com/magicbug/Cloudlog/tree/station_logbooks
 
 What's different from the regular themes in Cloudlog?
